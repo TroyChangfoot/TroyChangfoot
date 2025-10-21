@@ -2,7 +2,8 @@
 **Full Stack Developer | Python · Django · React · Laravel · DevOps**
 
 I’m a South African full-stack engineer passionate about building clean, scalable systems that connect business logic with strong user experience.  
-I’ve spent over a decade designing SaaS platforms, real-time APIs, and reward automation systems for fintech, telecom, and retail clients across Africa and abroad.
+
+With over a decade of hands-on development experience, I’ve built and maintained web platforms, APIs, and automation tools for fintech, telecom, and retail projects across Africa and abroad.
 
 💡 I enjoy working end-to-end — from database modeling and API design to responsive UIs and deployment pipelines — keeping things DRY, testable, and production-ready.
 
@@ -24,7 +25,7 @@ I’ve spent over a decade designing SaaS platforms, real-time APIs, and reward 
 ---
 
 ### 🧩 Current Focus
-- 🚀 Building production-ready Django + React demos  
+- 🚀 Building Django/REST + React demos  
 - 🧱 Crafting microservice templates with FastAPI & Laravel  
 - 🐳 Streamlining DevOps pipelines with Docker & GitHub Actions  
 - 🧠 Experimenting with AI-driven campaign automation  
@@ -34,13 +35,13 @@ I’ve spent over a decade designing SaaS platforms, real-time APIs, and reward 
 ### 🧰 Featured Repositories
 | Repository | Description | Stack |
 |-------------|--------------|--------|
-| [**django-crud-api**](#) | Core CRUD boilerplate with JWT auth, Docker & Postgres | Django REST Framework |
-| [**react-dashboard**](#) | Admin dashboard consuming Django API | React, Tailwind, Recharts |
+| [**django-crud-api**](https://github.com/TroyChangfoot/django-crud-api) | Core CRUD boilerplate with JWT auth, Docker & Postgres | Django REST Framework |
+| [**react-dashboard**](https://github.com/TroyChangfoot/react-dashboard) | Admin dashboard consuming Django API | React, Tailwind, Recharts |
 | [**laravel-saas-demo**](#) | SaaS billing & user management skeleton | Laravel, MySQL, Vue |
 | [**fullstack-devops-demo**](#) | CI/CD + microservices template | Docker Compose, GitHub Actions |
 
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/troychangfoot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/presidentstarboy)
 [![Email](https://img.shields.io/badge/Email-Contact-9cf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cooperagile@gmail.com)
