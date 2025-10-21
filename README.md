@@ -35,7 +35,7 @@ I’ve spent over a decade designing SaaS platforms, real-time APIs, and reward 
 | Repository | Description | Stack |
 |-------------|--------------|--------|
 | [**django-crud-api**](https://github.com/TroyChangfoot/django-crud-api) | Core CRUD boilerplate with JWT auth, Docker & Postgres | Django REST Framework |
-| [**react-dashboard**](#) | Admin dashboard consuming Django API | React, Tailwind, Recharts |
+| [**react-dashboard**](https://github.com/TroyChangfoot/react-dashboard) | Admin dashboard consuming Django API | React, Tailwind, Recharts |
 | [**laravel-saas-demo**](#) | SaaS billing & user management skeleton | Laravel, MySQL, Vue |
 | [**fullstack-devops-demo**](#) | CI/CD + microservices template | Docker Compose, GitHub Actions |
 
